@@ -1,0 +1,26 @@
+1. ¿Qué es un método en Java?
+Un método en Java es un conjunto de instrucciones que realizan una tarea determinada. Los métodos se definen dentro de las clases y se pueden llamar desde otras partes del programa.
+
+2. ¿Cuáles son los cuatro tipos de métodos en Java?
+Los cuatro tipos de métodos en Java son:
+Métodos de instancia: Son los métodos que se asocian a un objeto. Se utilizan para realizar tareas sobre el objeto, como acceder a sus variables o llamar a otros métodos.
+Métodos estáticos: Son los métodos que no se asocian a un objeto en particular. Se utilizan para realizar tareas que no dependen de un objeto en concreto, como funciones matemáticas o operaciones de cadenas.
+Métodos constructores: Son métodos especiales que se utilizan para crear objetos.
+Métodos de sobrecarga: Son métodos que tienen el mismo nombre pero diferentes parámetros.
+
+3. ¿Cuál es la diferencia entre un método con parámetros y sin retorno y un método sin parámetros y con retorno?
+Un método con parámetros y sin retorno es un método que recibe datos como entrada, pero no devuelve ningún dato como salida. Un método sin parámetros y con retorno es un método que no recibe datos como entrada, pero devuelve un dato como salida.
+
+4. ¿Cuál es la diferencia entre un método con parámetros y con retorno y un método con parámetros y sin retorno?
+Un método con parámetros y con retorno es un método que recibe datos como entrada y devuelve un dato como salida. Un método con parámetros y sin retorno es un método que recibe datos como entrada, pero no devuelve ningún dato como salida.
+
+5. ¿Por qué son importantes los métodos en Java?
+Los métodos son importantes en Java porque permiten dividir el código en tareas más pequeñas y fáciles de entender. Esto hace que el código sea más modular, reutilizable y fácil de mantener.
+
+6. ¿Qué es una estructura de datos?
+Una estructura de datos es una forma de organizar y almacenar datos. Las estructuras de datos se utilizan para facilitar el acceso y el procesamiento de los datos.
+
+7. ¿Cuál es la diferencia entre un arreglo, un arrayList y un HashMap?
+Un arreglo es una estructura de datos que almacena datos de un mismo tipo. Los arreglos son indexados, lo que significa que se pueden acceder a los datos de un arreglo utilizando un índice.
+Un arrayList es una estructura de datos similar a un arreglo, pero es más flexible. Los arrayLists pueden almacenar datos de diferentes tipos y no son indexados.
+Un HashMap es una estructura de datos que almacena pares clave-valor. Los HashMaps son útiles para almacenar datos en los que la clave es importante para el acceso a los datos.
